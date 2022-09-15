@@ -1,8 +1,8 @@
-﻿using ASOECO.Models;
+﻿using Asoeco.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace ASOECO.Controllers
+namespace Asoeco.Controllers
 {
     public class HomeController : Controller
     {

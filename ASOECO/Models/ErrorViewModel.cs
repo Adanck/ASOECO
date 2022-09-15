@@ -1,4 +1,4 @@
-namespace ASOECO.Models
+namespace Asoeco.Models
 {
     public class ErrorViewModel
     {
