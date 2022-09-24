@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bvr0HP+erRf9ugYntnooF2IIB6I209S2rLlRcA4NHoXKlzyhn1tMPEez7vKQYgAROb9Hm1jeHR4sSAo54VZUtw==",
+  "dgSpecHash": "8Am0pcNneLlHFjS8Bji2NzHzlRX2WOg5bSuhs6GSZiTp3lRtg8FAT1Z6q1NxwrXaNh/097ZdGIAEpU2kkytesA==",
   "success": true,
   "projectFilePath": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\Asoeco.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\adan_\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
+    "C:\\Users\\adan_\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\adan_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
