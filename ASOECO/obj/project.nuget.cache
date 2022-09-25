@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "8Am0pcNneLlHFjS8Bji2NzHzlRX2WOg5bSuhs6GSZiTp3lRtg8FAT1Z6q1NxwrXaNh/097ZdGIAEpU2kkytesA==",
+  "dgSpecHash": "u4ICug11jHXrRUugPysLOd9MYrtU+585fQlZUXYmddDRA0ADQLTSPK0Cy5mpjIxJi5mrfzGH9vyzhzbbRbherQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\Asoeco.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adan_\\.nuget\\packages\\microsoft.data.sqlite\\6.0.9\\microsoft.data.sqlite.6.0.9.nupkg.sha512",
     "C:\\Users\\adan_\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
+    "C:\\Users\\adan_\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\adan_\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\adan_\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\adan_\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\adan_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
