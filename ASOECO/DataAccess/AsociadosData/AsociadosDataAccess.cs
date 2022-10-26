@@ -1,15 +1,16 @@
-﻿using Asoeco.Models;
+﻿using Asoeco.DataAccess.AsociadosData;
+using Asoeco.Models;
 using Microsoft.Data.Sqlite;
 
-namespace Asoeco.DataAccess.HomeData
+namespace Asoeco.DataAccess.AsociadosData
 {
-    public class HomeDataAccess :Base, IHomeDataAccess
+    public class AsociadosDataAccess : Base, IAsociadosDataAccess
     {
-        public HomeModel getHome()
+        public AssociatesModel getAssociates()
         {
             try
             {
-                var response = new HomeModel();
+                var response = new AssociatesModel();
                 using (SqliteConnection sql_con = new SqliteConnection(GetConnectionString()))
                 {
                     using (SqliteCommand sql_cmd = new SqliteCommand())
@@ -24,9 +25,9 @@ namespace Asoeco.DataAccess.HomeData
 
                         while (reader.Read())
                         {
-                            response.History = (string)reader["History"];
-                            response.Mision = (string)reader["Mision"];
-                            response.Vision = (string)reader["Vision"];
+                            //response.History = (string)reader["History"];
+                            //response.Mision = (string)reader["Mision"];
+                            //response.Vision = (string)reader["Vision"];
                             //response.Asociados = (string)reader["Asociados"];
                         }
                     }

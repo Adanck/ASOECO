@@ -9,7 +9,7 @@ namespace Asoeco.Models
         [DataMember]
         public string? HomeInformation { get; set; }
         [DataMember]
-        public string? About { get; set; }
+        public string? Asociados { get; set; }
         [DataMember]
         public string? Mision { get; set; }
         [DataMember]

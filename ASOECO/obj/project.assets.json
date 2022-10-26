@@ -283,24 +283,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adan_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Juan Pablo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\Asoeco.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Pablo\\Documents\\GitHub\\ASOECO\\ASOECO\\Asoeco.csproj",
       "projectName": "Asoeco",
-      "projectPath": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\Asoeco.csproj",
-      "packagesPath": "C:\\Users\\adan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\obj\\",
+      "projectPath": "C:\\Users\\Juan Pablo\\Documents\\GitHub\\ASOECO\\ASOECO\\Asoeco.csproj",
+      "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juan Pablo\\Documents\\GitHub\\ASOECO\\ASOECO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\adan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -308,7 +303,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
