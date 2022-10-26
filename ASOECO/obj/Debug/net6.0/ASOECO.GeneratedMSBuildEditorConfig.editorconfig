@@ -8,41 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Asoeco
 build_property.RootNamespace = Asoeco
-build_property.ProjectDir = c:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO\
+build_property.ProjectDir = C:\Users\adan_\source\repos\ASOECO\Asoeco\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO
+build_property.MSBuildProjectDirectory = C:\Users\adan_\source\repos\ASOECO\Asoeco
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Asociados/_Asociados.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNvY2lhZG9zXF9Bc29jaWFkb3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Home/Index.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Home/Privacy.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Shared/Error.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/_ViewImports.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/_ViewStart.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Juan Pablo/Documents/GitHub/ASOECO/ASOECO/Views/Shared/_Layout.cshtml]
+[C:/Users/adan_/source/repos/ASOECO/Asoeco/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oycedw4e6f

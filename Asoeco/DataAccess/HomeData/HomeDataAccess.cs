@@ -27,7 +27,7 @@ namespace Asoeco.DataAccess.HomeData
                             response.History = (string)reader["History"];
                             response.Mision = (string)reader["Mision"];
                             response.Vision = (string)reader["Vision"];
-                            //response.Asociados = (string)reader["Asociados"];
+                            response.About = (string)reader["About"];
                         }
                     }
                 }
