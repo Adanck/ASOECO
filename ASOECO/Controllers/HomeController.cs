@@ -21,6 +21,11 @@ namespace Asoeco.Controllers
             var model = this.homeService.getHome();
             return View();
         }
+        public IActionResult Associates()
+        {
+            var model = this.homeService.getAssociates();
+            return View();
+        }
 
         public IActionResult Privacy()
         {

@@ -27,10 +27,23 @@ namespace Asoeco.DataAccess.HomeData
                             response.History = (string)reader["History"];
                             response.Mision = (string)reader["Mision"];
                             response.Vision = (string)reader["Vision"];
-                            response.About = (string)reader["About"];
+                            //response.About = (string)reader["About"];
                         }
                     }
                 }
+                return response;
+            }
+            catch (SqliteException ex)
+            {
+                throw ex;
+            }
+        }
+        public AssociatesModel getAssociates()
+        {
+            try
+            {
+                var response = new AssociatesModel();
+                
                 return response;
             }
             catch (SqliteException ex)

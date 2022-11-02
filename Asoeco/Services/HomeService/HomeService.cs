@@ -14,5 +14,9 @@ namespace Asoeco.Services.HomeService
         {
             return this.homeDataAccess.getHome();
         }
+        public AssociatesModel getAssociates()
+        {
+            return this.homeDataAccess.getAssociates();
+        }
     }
 }
