@@ -93,3 +93,4 @@ C:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO\obj\Debug\net6.0\Asoeco.pdb
 C:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO\obj\Debug\net6.0\Asoeco.genruntimeconfig.cache
 C:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO\obj\Debug\net6.0\ref\Asoeco.dll
 C:\Users\Juan Pablo\Documents\GitHub\ASOECO\ASOECO\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\adan_\source\repos\ASOECO\Asoeco\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
