@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BiwatRXdJx3jbd6uUMlI9+9sKWNHsYq3YBxRcR6lSUM=",
+  "Hash": "JH1hmXOuYHWEf/bGCDy6Ocs0EfqH9bctGsB84VVH84w=",
   "Source": "Asoeco",
   "BasePath": "_content/Asoeco",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\asoeco\\assets\\img\\portfolio\\Hospedaje.jpg"
     },
     {
+      "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\asoeco\\assets\\img\\portfolio\\logo.jpeg",
+      "SourceId": "Asoeco",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\",
+      "BasePath": "_content/Asoeco",
+      "RelativePath": "asoeco/assets/img/portfolio/logo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asoeco\\assets\\img\\portfolio\\logo.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\asoeco\\assets\\img\\portfolio\\Pajaro.jpg",
       "SourceId": "Asoeco",
       "SourceType": "Discovered",
@@ -323,12 +340,12 @@
       "OriginalItemSpec": "wwwroot\\asoeco\\assets\\img\\portfolio\\Tour.jpg"
     },
     {
-      "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\asoeco\\assets\\img\\portfolio\\WhatsApp-Image-at-PM-mnll998x8BiqMJ6J.jpeg",
+      "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\asoeco\\assets\\img\\portfolio\\WhatsApp-Image-at-PM-mnll998x8BiqMJ6J - Copy.jpeg",
       "SourceId": "Asoeco",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\",
       "BasePath": "_content/Asoeco",
-      "RelativePath": "asoeco/assets/img/portfolio/WhatsApp-Image-at-PM-mnll998x8BiqMJ6J.jpeg",
+      "RelativePath": "asoeco/assets/img/portfolio/WhatsApp-Image-at-PM-mnll998x8BiqMJ6J - Copy.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,7 +354,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asoeco\\assets\\img\\portfolio\\WhatsApp-Image-at-PM-mnll998x8BiqMJ6J.jpeg"
+      "OriginalItemSpec": "wwwroot\\asoeco\\assets\\img\\portfolio\\WhatsApp-Image-at-PM-mnll998x8BiqMJ6J - Copy.jpeg"
     },
     {
       "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\asoeco\\css\\styles.css",
@@ -1698,6 +1715,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\content\\assets\\img\\lapaz\\zunzun\\Hospedaje.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\content\\assets\\img\\lapazimg.jpg",
+      "SourceId": "Asoeco",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\",
+      "BasePath": "_content/Asoeco",
+      "RelativePath": "content/assets/img/lapazimg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\assets\\img\\lapazimg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\content\\assets\\img\\logo.jpeg",
+      "SourceId": "Asoeco",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\",
+      "BasePath": "_content/Asoeco",
+      "RelativePath": "content/assets/img/logo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content\\assets\\img\\logo.jpeg"
     },
     {
       "Identity": "C:\\Users\\adan_\\source\\repos\\ASOECO\\Asoeco\\wwwroot\\content\\assets\\img\\portfolio\\portfolio-1.jpg",
